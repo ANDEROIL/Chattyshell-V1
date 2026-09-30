@@ -1,0 +1,1 @@
+guessing that no one will see this, i want to make sure that i openly say that this is a project that took me a lot of time and effort, so i probably wont trow everything here, just be patient while i learn how to use git
