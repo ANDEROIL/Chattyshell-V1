@@ -1,1 +1,3 @@
-guessing that no one will see this, i want to make sure that i openly say that this is a project that took me a lot of time and effort, so i probably wont trow everything here, just be patient while i learn how to use git
+this project is the first usable prototype of a tiny good looking shell called Chattyshell
+
+ChattyshellV1.0 is still in Beta, so if you found any bugs or you have an idea don't be afraid of telling me what's your idea
